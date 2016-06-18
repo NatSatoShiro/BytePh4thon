@@ -15,13 +15,13 @@ system('BytePh4thon V.1');
 
 print"\n";
 print color('red');
-print "\tâ–ˆâ–€â–€â–ˆ â–ˆâ”€â”€â–ˆ â–€â–€â–ˆâ–€â–€ â–ˆâ–€â–€ â–‘â–ˆâ–€â–€â–ˆ â–ˆâ”€â”€â–ˆ â”€â–ˆâ–€â–ˆâ”€ â–€â–€â–ˆâ–€â–€ â–ˆâ”€â”€â–ˆ â–ˆâ–€â–€â–ˆ â–ˆâ–€â–€â–„<\n";
-print "\tâ–ˆâ–€â–€â–„ â–ˆâ–„â–„â–ˆ â”€â”€â–ˆâ”€â”€ â–ˆâ–€â–€ â–‘â–ˆâ–„â–„â–ˆ â–ˆâ–€â–€â–ˆ â–ˆâ–„â–„â–ˆâ–„ â”€â”€â–ˆâ”€â”€ â–ˆâ–€â–€â–ˆ â–ˆâ”€â”€â–ˆ â–ˆâ”€â”€â–ˆ<\n"; 
-print "\tâ–ˆâ–„â–„â–ˆ â–„â–„â–„â–ˆ â”€â”€â–€â”€â”€ â–€â–€â–€ â–‘â–ˆâ”€â”€â”€ â–€â”€â”€â–€ â”€â”€â”€â–ˆâ”€ â”€â”€â–€â”€â”€ â–€â”€â”€â–€ â–€â–€â–€â–€ â–€â”€â”€â–€>\n"; 
+print "\t¦¯¯¦ ¦--¦ ¯¯¦¯¯ ¦¯¯ ¦¦¯¯¦ ¦--¦ -¦¯¦- ¯¯¦¯¯ ¦--¦ ¦¯¯¦ ¦¯¯_<\n";
+print "\t¦¯¯_ ¦__¦ --¦-- ¦¯¯ ¦¦__¦ ¦¯¯¦ ¦__¦_ --¦-- ¦¯¯¦ ¦--¦ ¦--¦<\n"; 
+print "\t¦__¦ ___¦ --¯-- ¯¯¯ ¦¦--- ¯--¯ ---¦- --¯-- ¯--¯ ¯¯¯¯ ¯--¯>\n"; 
      print "\n";
      print color("green"), "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><\n";  color("reset");
      print color("green"), "\t>           BytePh4thon V.1           >\n";  color("reset");
-     print color("green"), "\t> 24-02-2016        Drachen_Himmlisch >\n";  color("reset");
+     print color("green"), "\t> 24-02-2016        ReibzahnBlack     >\n";  color("reset");
      print color("green"), "\t<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\n";  color("reset");
      print color("green"), "\n";  color("reset");
 
@@ -30,7 +30,7 @@ $site=<STDIN>;
 chomp $site;
 
 print "\n";
-print color ("white"), "~ Por Favor Preciona \n* surf\n-> ";
+print color ("white"), "~ Por Favor Preciona Enter \n* \n-> ";
 $code=<STDIN>;
 chomp($code);
 
@@ -211,7 +211,7 @@ print color ("red"),"[-] No Encontrado <- $final\n";
 }
 }
 ##################################
-# by Drachen_Himmlisch        #
+# by ReibzahnBlack        #
 #                             #
 # Anonymous Temuco            #
 #                             #
